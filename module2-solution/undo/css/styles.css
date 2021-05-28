@@ -21,69 +21,13 @@ h1 {
 }
 
 p {
-  font-family: Arial;
-  color: black;
-  padding: 0px;
-  margin: 0px;
-}
-
-#p1 {
-  display: inline-block;
-  text-align: center;
-  margin: 0 auto;
-  position: relative;
-  top: -17px;
-  right: -17px;
-  padding: 10px 30px 10px 30px;
-  border: 2px solid black;
-  font-family: Helvetica;
-  font-size: 20px;
-  color: white;
-  background-color: #faaf3e;
-}
-
-#p2 {
-  display: inline-block;
-  text-align: center;
-  margin: 0 auto;
-  position: relative;
-  top: -17px;
-  right: -17px;
-  padding: 10px 30px 10px 30px;
-  border: 2px solid black;
-  font-family: Helvetica;
-  font-size: 20px;
-  color: white;
-  background-color: #ad2d2d;
-}
-#p3 {
-  display: inline-block;
-  text-align: center;
-  margin: 0 auto;
-  position: relative;
-  top: -17px;
-  right: -17px;
-  padding: 10px 30px 10px 30px;
-  border: 2px solid black;
-  font-family: Helvetica;
-  font-size: 20px;
-  color: white;
-  background-color: #49702b;
-}
-#div1 {
-  background-color: #cccccc;
-  border: 2px solid black;
-  font-family: Arial;
-  margin-right: 10px;
-  margin-left: 10px;
-  margin-bottom: 20px;
+  border: 1px solid black;
+  margin-right: 15px;
+  margin-left: 15px;
   padding: 15px;
-  text-align: left;
-}
-
-#div2 {
-  background-color: #cccccc;
-  text-align: right;
+  font-family: Arial;
+  background-color: #464E7E;
+  color: white;
 }
 
 /* desktop version */
